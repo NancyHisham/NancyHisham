@@ -3,7 +3,7 @@
  <table align="center">
 <tr>
   <td>
-<img align="center" width="500"  src="https://usagif.com/wp-content/uploads/2022/fzk5d/demon-slayer-anime-acegif-74.gif">
+<img align="center" width="400"  src="https://usagif.com/wp-content/uploads/2022/fzk5d/demon-slayer-anime-acegif-74.gif">
    </tr>
   </td>
 <table>
@@ -48,14 +48,20 @@
 
 
 
-<center>
-  <a href="https://discord.gg/Neso" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nisreen hisham" /></a>
-  <a href="https://www.instagram.com/nancyhisham_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nisreen hisham" /></a>
-  <a href="https://linkedin.com/in/nisreenhisham" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nisreen hisham" /></a>
-  <a href="https://fb.com/nancyhisham" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="nisreen hisham" /></a>
-  <a href="https://myaccount.google.com/?tab=kk&hl=en_GB" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nisreen hisham" /></a>
-  <a href="https://web.telegram.org/k/" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="nisreen hisham" /></a>
-</center>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td>
+      <a href="https://discord.gg/Neso" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nisreen hisham" /></a>
+      <a href="https://www.instagram.com/nancyhisham_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nisreen hisham" /></a>
+      <a href="https://linkedin.com/in/nisreenhisham" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nisreen hisham" /></a>
+      <a href="https://fb.com/nancyhisham" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="nisreen hisham" /></a>
+      <a href="https://myaccount.google.com/?tab=kk&hl=en_GB" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nisreen hisham" /></a>
+      <a href="https://web.telegram.org/k/" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="nisreen hisham" /></a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
