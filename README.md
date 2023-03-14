@@ -1,9 +1,13 @@
 
 
-
-
-
-
+ <table align="center">
+<tr>
+  <td>
+<img align="center" width="500"  src="https://usagif.com/wp-content/uploads/2022/fzk5d/demon-slayer-anime-acegif-74.gif">
+   </tr>
+  </td>
+<table>
+ 
  <table align="center">
  <tr>
   <td>
@@ -20,12 +24,6 @@
 
   ![](https://github-readme-stats.vercel.app/api/top-langs?username=nancyhisham&show_icons=true&locale=en&layout=compact)
 
-             
-</td>
-  <td>
-   <img align="center" width="400" src="https://usagif.com/wp-content/uploads/2022/fzk5d/demon-slayer-anime-acegif-74.gif">
-   
-  </td>
  </tr>
     </table>
          
