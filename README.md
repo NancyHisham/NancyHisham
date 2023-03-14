@@ -16,6 +16,5 @@
 
 <p>&nbsp;
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyhisham&" alt="nancyhisham" />
-<img align="left" top:200px" src="https://github-readme-stats.vercel.app/api?username=nancyhisham&show_icons=true&locale=en" alt="nancyhisham" /></p>
-
+<img align="right" top:200px" src="https://github-readme-stats.vercel.app/api?username=nancyhisham&show_icons=true&locale=en" alt="nancyhisham" /></p>
 
