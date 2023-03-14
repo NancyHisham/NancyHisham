@@ -18,10 +18,13 @@
         <tr>
             <td style="padding:10px">
 ![Nancy's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nancyhisham&)
+             
 </td>
 <td style="padding:10px">
+ 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=nancyhisham&show_icons=true&locale=en)](https://git.io/streak-stats)
             </td>
+         
         </tr>
     </table>
     
