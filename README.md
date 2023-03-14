@@ -14,7 +14,18 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancyhisham&show_icons=true&locale=en&layout=compact" alt="nancyhisham" /></p>
 
-<p>&nbsp;
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyhisham&" alt="nancyhisham" />
-<img align="right" top:200px" src="https://github-readme-stats.vercel.app/api?username=nancyhisham&show_icons=true&locale=en" alt="nancyhisham" /></p>
+<table>
+        <tr>
+            <td style="padding:10px">
+
+![Nancy's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nancyhisham&)
+
+</td>
+<td style="padding:10px">
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=nancyhisham&show_icons=true&locale=en)](https://git.io/streak-stats)
+            </td>
+        </tr>
+    </table>
+    
 
