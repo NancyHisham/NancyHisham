@@ -42,7 +42,7 @@
  <table align="right" style="border-collapse: collapse;">      
  <td>
 
-  <img  style="width:465px; height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancyhisham&show_icons=true&locale=en&layout=compact">
+  <img  style="width:400px; height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancyhisham&show_icons=true&locale=en&layout=compact">
   </td>
  </table>
  
