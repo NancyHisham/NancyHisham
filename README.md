@@ -50,7 +50,7 @@
     <td>
       <a href="https://discord.com/channels/@me" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nisreen hisham" /></a>
       <a href="https://www.instagram.com/nancyhisham_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nisreen hisham" /></a>
-      <a href="https://www.linkedin.com/in/nisreen-hf-34a31726a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nisreen hisham" /></a>
+      <a href="[https://www.linkedin.com/in/nisreen-hf-34a31726a/](https://www.linkedin.com/in/nisreen-hesham-4b884b252/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nisreen hisham" /></a>
       <a href="https://www.facebook.com/nermeenali.2007/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="nisreen hisham" /></a>
       <a href="https://myaccount.google.com/?tab=kk&hl=en_GB" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nisreen hisham" /></a>
       <a href="https://web.telegram.org/k/" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="nisreen hisham" /></a>
